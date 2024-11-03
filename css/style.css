@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'fontplay '; 
+  src: url('zrnic rg.otf') format();
+}
+
+
+.fundo{
+  background-image: url(/image/fundoprincipal.jpg);
+  height: 35rem;
+}
+
+.card{
+  font-family: 'fontplay';
+  background-color: black;
+  color: white;
+  margin-top: 5rem;
+  margin-left: 10.9rem;
+  border: solid 5px;
+}
+
+.btnspider{
+  margin-top: -1.5rem;
+}
+
+
+
+
+
+
+
+
